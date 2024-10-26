@@ -14,3 +14,6 @@ gh-export.log
 esbuild
 build
 dist
+dist/gh-repos-transfer-linux
+dist/gh-repos-transfer-macos
+dist/gh-repos-transfer-win.exe
