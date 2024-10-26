@@ -1,0 +1,15 @@
+.env
+
+# dev testing
+repositories_000001.json
+repositories
+
+# dependencies
+node_modules
+
+# logs
+gh-export.log
+
+# build
+esbuild
+build
