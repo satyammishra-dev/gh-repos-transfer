@@ -28,7 +28,7 @@ To successfully transfer repositories, follow these steps:
 ### 3. Download or Clone **gh-repos-transfer**
 
 - You have two options: download an executable or clone the repository:
-  - **Executable**: Navigate to the `dist/` folder, and download the appropriate executable (`gh-repos-transfer-linux`, `gh-repos-transfer-macos`, or `gh-repos-transfer-win`).
+  - **Executable**: Download the executable file for your operating system from the [releases page](/releases/latest).
   - **Clone**: Use `git clone` to clone the repository locally, then run `npm install` to install dependencies.
 
 ### 4. Set Up the Working Directory
