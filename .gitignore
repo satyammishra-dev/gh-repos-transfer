@@ -13,3 +13,4 @@ gh-export.log
 # build
 esbuild
 build
+dist
