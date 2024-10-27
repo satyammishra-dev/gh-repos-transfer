@@ -1,6 +1,6 @@
 {
   "name": "gh-repos-transfer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quick CLI tool to transfer all your github repositories from one account to another.",
   "main": "index.js",
   "bin": {
