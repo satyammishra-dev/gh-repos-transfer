@@ -14,10 +14,11 @@ import {
 } from "./sequence_utils.js";
 
 import "dotenv/config";
+import printAscii from "./printAscii.js";
 
 const main = async () => {
-  // Clear the console.
-  console.clear();
+  // Start
+  printAscii();
 
   // Get credentials
   if (
